@@ -78,7 +78,6 @@ This tool was architected from the ground up to prioritize **Data Sovereignty** 
 
 ### 4. Alignment with Emerging Global AI Regulations
 * **EU AI Act / UK AI Regulation Compliance:** Under modern frameworks, automated cybersecurity infrastructure must avoid systemic bias and maintain a clear audit trail. This tool satisfies these constraints by providing structured, time-stamped outputs (`timestamp → IP → attempts → level → analysis`) ensuring full traceability and accountability for compliance auditors.
-Use code with caution.Why this changes your 2028 Job SearchWhen a technical recruiter or GRC director looks at your GitHub profile, this section shows them you understand:The Business Risk: Why companies are terrified of using cloud AI.The Technical Risk: Why you cannot rely 100% on AI to make security choices (the hybrid control strategy).The Framework Language: You are using real terms like PR.DS (Data Security) and ID.AM (Asset Management) straight from NIST CSF 2.0.Once you update your GitHub, would you like me to show you how to write the 2-sentence summary of this project for the top section of your Resume / CV? This will make sure recruiters read the readme file in the first place.
 
 ## 🔗 Future Improvements
 * Real-time log monitoring
